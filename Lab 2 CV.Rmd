@@ -28,7 +28,7 @@ h1 {text-align: center;}
 >[LinkedIn](https://www.linkedin.com/in/katecartercram/)  
 
 
-<center>![KCC](/Users/katecarter-cram/Documents/Headshots/00001028.jpeg)</center>
+![KCC](/Users/katecarter-cram/Documents/Headshots/00001028.jpeg)
 
 ### Education  
 - **Cornell University**  
