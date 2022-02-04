@@ -16,7 +16,7 @@ Kate
 > **Email:** <kkc74@cornell.edu>  
 > [LinkedIn](https://www.linkedin.com/in/katecartercram/)
 
-![KCC](/Users/katecarter-cram/Documents/Headshots/00001028.jpeg)
+# ![KCC](/Users/katecarter-cram/Documents/Headshots/00001028.jpeg)
 
 ### Education
 

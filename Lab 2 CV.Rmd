@@ -28,7 +28,7 @@ h1 {text-align: center;}
 >[LinkedIn](https://www.linkedin.com/in/katecartercram/)  
 
 
-![KCC](/Users/katecarter-cram/Documents/Headshots/00001028.jpeg)
+ ![KCC](/Users/katecarter-cram/Documents/Headshots/00001028.jpeg)
 
 ### Education  
 - **Cornell University**  
@@ -50,6 +50,8 @@ h1 {text-align: center;}
 - **Institute of Transportation Engineers (ITE)**, *August 2020-May 2021*
 - **Boise State French Club**, *May 2018-May 2021*
 
+
+### New Section Here! (commented by Dongcheng)
 
     
 
